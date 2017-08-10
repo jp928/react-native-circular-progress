@@ -1,5 +1,5 @@
 {
-  "name": "react-native-circular-progress",
+  "name": "@2hats/react-native-circular-progress",
   "version": "0.0.8",
   "description": "React Native component for creating animated, circular progress with ReactART",
   "main": "index.js",
